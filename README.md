@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **zazabap/zazabap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋
+
+I'm Shiwen An, a Ph.D. candidate at the [RIKEN AIP](https://www.riken.jp/en/research/labs/aip/ai_soc/ai_sec_privacy/index.html) & [Institute of Science, Tokyo](https://www.isct.ac.jp/en), specializing in Quantum Machine Learning and AI security.
+
+### 🧑‍💻 Current Work:
+- Encoding Graph data and research with Variational Classifier.
+- LLM data extraction on privacy dataset.
+
+### 🤝 Looking to Collaborate On:
+- Quantum Machine Learning projects.
+- Open-source tools for quantum computing.
+- LLM security, attack and defense.
+
