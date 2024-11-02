@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-I'm Shiwen An, a Ph.D. candidate at the [RIKEN AIP](https://www.riken.jp/en/research/labs/aip/ai_soc/ai_sec_privacy/index.html) & [Institute of Science, Tokyo](https://www.isct.ac.jp/en), specializing in Quantum Machine Learning and AI security.
+I'm Shiwen An, a Ph.D. candidate at the [RIKEN AIP](https://www.riken.jp/en/research/labs/aip/ai_soc/ai_sec_privacy/index.html) & [Institute of Science Tokyo](https://www.isct.ac.jp/en), specializing in Quantum Machine Learning and AI security.
 
 ### 🧑‍💻 Current Work:
 - Encoding Graph data and research with Variational Classifier.
