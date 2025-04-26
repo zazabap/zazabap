@@ -26,3 +26,6 @@ I'm Shiwen An, a Ph.D. candidate at the [RIKEN AIP](https://www.riken.jp/en/rese
 - Open-source tools for quantum computing.
 - LLM security, attack and defense.
 
+![Shiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=zazabap&show_icons=true&theme=radical)
+
+
