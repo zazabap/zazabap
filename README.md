@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋😄
-
-I'm Shiwen An, a Ph.D. candidate at the [RIKEN AIP](https://www.riken.jp/en/research/labs/aip/ai_soc/ai_sec_privacy/index.html) & [Institute of Science Tokyo](https://www.isct.ac.jp/en), specializing in Quantum Machine Learning and AI security. 🔐 Please feel free to visit my [personal website](https://zazabap.github.io) regards recent research and publications.
-
 ### 🧑‍💻 Current Work:
 - Encoding Graph data and research with Variational Classifier.
 - LLM data extraction on privacy dataset.
@@ -26,6 +22,4 @@ I'm Shiwen An, a Ph.D. candidate at the [RIKEN AIP](https://www.riken.jp/en/rese
 - Open-source tools for quantum computing.
 - LLM security, attack and defense.
 
-![Shiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=zazabap&show_icons=true&theme=radical)
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zazabap&show_icons=true&theme=radical)
