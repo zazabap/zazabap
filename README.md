@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - Encoding Graph data and research with Variational Classifier.
 - LLM data extraction on privacy dataset.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zazabap&layout=donut&theme=radical)](https://github.com/zazabap/github-readme-stats)
+
 ### 🤝 Looking to Collaborate On:
 - Quantum Machine Learning projects.
 - Open-source tools for quantum computing.
