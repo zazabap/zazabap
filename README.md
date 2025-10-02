@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - Open-source tools for quantum computing. Currently mainly working on LogosQ library with Rust. 
 - LLM security, attack and defense.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zazabap&layout=donut)](https://github.com/zazabap/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zazabap&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zazabap&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zazabap&theme=radical&layout=donut)](https://github.com/zazabap/github-readme-stats)
