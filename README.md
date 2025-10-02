@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 Current Work:
 - Encoding Graph data and research with Variational Classifier.
+- Optimization in Quantum Computing Library and Software. In future also software hardware co-design. 
 - LLM data extraction on privacy dataset.
 
 ### 🤝 Looking to Collaborate On:
 - Quantum Machine Learning projects.
-- Open-source tools for quantum computing.
+- Open-source tools for quantum computing. Currently mainly working on LogosQ library with Rust. 
 - LLM security, attack and defense.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zazabap&show_icons=true&theme=radical)
