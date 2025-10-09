@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - Optimization in Quantum Computing Library and Software. In future also software hardware co-design. 
 - LLM data extraction on privacy dataset.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zazabap&theme=radical&layout=donut)](https://github.com/zazabap/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zazabap&theme=radical&layout=compact)](https://github.com/zazabap/github-readme-stats)
 
 ### 🤝 Looking to Collaborate On:
 - Quantum Machine Learning projects.
